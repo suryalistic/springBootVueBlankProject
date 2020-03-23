@@ -32,6 +32,6 @@ dependencies {
 
 
 task webpack(type: Exec) {
-	executable 'buildFronTEnd.cmd'
+	executable 'buildFrontEnd.cmd'
 }
 
